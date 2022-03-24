@@ -1,0 +1,5 @@
+ today i learning the git bash in gita commans 
+
+ today learng git status
+
+ git push
